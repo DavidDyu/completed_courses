@@ -1,5 +1,5 @@
 # completed_courses
-courses I have done so far
+Online courses I have done so far
 
 
 
