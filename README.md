@@ -11,5 +11,5 @@ courses I have done so far
 
 Course|Files|Status
 :--|:--:|:--|
-Harvard's CS50| [Link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|completed
-MITx: 6.00.1x Introduction to Computer Science and Programming Using Python| [link](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)|in progress
+Harvard's CS50 Introduction to Computer Science| [Link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|Completed
+MITx: 6.00.1x Introduction to Computer Science and Programming Using Python| [link](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)|In Progress
